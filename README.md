@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/kterra92/kterra92/raw/main/assets/github-v2.gif" alt="Hi, I'm Fernando a passionate Data Scientist from Brazil 🇧🇷">
-</p>
-
 🙋🏾‍♀️ I'm currently a independent data scientist and tech content creator. I create awesome videos to teach programming, data science and artificial intelligence at [Programação Dinâmica](https://www.youtube.com/programacaodinamica) with [hallpaz](https://github.com/hallpaz). We achieved more than 2 million views, reaching more than 50k students monthly, in our tech videos at Youtube. I'm also a data science mentor at [ALFORRIAH](https://alforriah.com).
 
 - 🔭 I’m currently working on [Programação Dinâmica](https://www.youtube.com/programacaodinamica) and [ALFORRIAH](https://alforriah.com)
