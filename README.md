@@ -27,7 +27,7 @@
 
 
 
-[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=anairamlc&theme=algolia&show_icons=true)](https://github.com/anairamlc)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfgnunes&layout=compact&langs_count=7&theme=transparent&hide_border=true"/>
 
 -----
 
