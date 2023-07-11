@@ -25,14 +25,6 @@
 
 </details>
 
-#### 📊 **Github Stats**
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fernandosouza-eng1997)  
-  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fernandosouza-eng1997&show_icons=true&locale=en" alt="fernandosouza-eng1997" /></p>
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kterra&label=Profile%20views&color=0e75b6&style=flat" alt="fernandosouza-eng1997" /> </p>
-
 
 
 -----
@@ -40,7 +32,6 @@
 <h2>Hi there! I'm Cristiano Fraga G. Nunes</h2>
 
 <div style="display: inline_block">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cfgnunes&show_icons=true&theme=transparent&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfgnunes&layout=compact&langs_count=7&theme=transparent&hide_border=true"/>
 </div>
 
